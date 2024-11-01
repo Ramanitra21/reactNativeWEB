@@ -16,7 +16,6 @@ const Mobile = () => {
 
   return (
     <View style={styles.container}>
-      
       <Text>mobile</Text>
     </View>
   )
